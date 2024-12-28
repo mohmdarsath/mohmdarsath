@@ -4,7 +4,7 @@ Aspiring Software Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                 
   
-- 👯 I’m looking to collaborate as a manual tester and i also have a srtong knowledge about Cloud Infrastructure especially **AWS**
+- 👯 I’m looking to collaborate as a manual tester and i also have a strong knowledge about Cloud Infrastructure especially **AWS**
 - 🤔 I’m looking for a fresh start in my carrer
 - 💬 Ask me about Tech
 
